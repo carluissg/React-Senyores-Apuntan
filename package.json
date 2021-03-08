@@ -46,8 +46,8 @@
       "consistent-return": "off",
       "space-before-function-paren": "off",
       "no-param-reassign": "off",
-      "no-restricted-globals": "off",
-    },
+      "no-restricted-globals": "off"
+    }
   },
   "browserslist": {
     "production": [
